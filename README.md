@@ -1,3 +1,8 @@
+# github user demo
+Example project from Learning React published by OReilly.  
+This project will feature the examples from Chapter 8 of the book which focuses on making
+HTTP requests with React. Managing promise state. state
+--------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
